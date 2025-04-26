@@ -5,7 +5,7 @@ The files in this repository contain code required to run the different function
 
 There are 9 files in this repository and are outlined below
 
-configure_pin.sh : This file is not required to run the lightsaber code yet, but can be used to configure the appropriate pins of the PocketBeagle in the hardware so they can be interfaced digitally through python.
+**configure_pin.sh :** This file is not required to run the lightsaber code yet, but can be used to configure the appropriate pins of the PocketBeagle in the hardware so they can be interfaced digitally through python.
 
 int_class.py : This python script is a class for the Interrupt pin of the MPU used in this project. It is similar to the mpu6050 script. It measures data from the IMU and can detects the motion and impact of the lightsaber. It is used in the main driver to trigger a flicker animation.
 
