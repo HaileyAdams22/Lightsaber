@@ -1,9 +1,9 @@
 #!/bin/bash
 # --------------------------------------------------------------------------
-# Light Saber - Run Script
+# Lightsaber - Run Script
 # --------------------------------------------------------------------------
 # 
-# Run light Saber in /var/lib/cloud9/EDES301/project_01/lightsaber
+# Run lightsaber in /var/lib/cloud9/EDES301/project_01/lightsaber
 # 
 # --------------------------------------------------------------------------
 echo "Waiting 10s before starting light saber..." >> /var/log/light_saber.log
