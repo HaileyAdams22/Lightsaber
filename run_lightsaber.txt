@@ -22,4 +22,4 @@ dirs=(
 )
 
 # Set the PYTHONPATH and run the script
-PYTHONPATH=$(IFS=:; echo "${dirs[*]}") python3.11 test.py
+PYTHONPATH=$(IFS=:; echo "${dirs[*]}") python3.11 lightsaber.py
