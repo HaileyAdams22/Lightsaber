@@ -1,9 +1,9 @@
 #!/bin/bash
 # --------------------------------------------------------------------------
-# Light Saber - Configure Pins
+# Lightsaber - Configure Pins
 # --------------------------------------------------------------------------
 # 
-# Configure pins for Light Saber project:
+# Configure pins for Lightsaber project:
 #   - I2C2 (MPU6050)
 #   - Button 0 & 1
 #   - Mini LEDs (bLED, gLED, rLED, wLED)
