@@ -1,7 +1,7 @@
 # Lightsaber
 EDES301 Lightsaber Project
 
-The files in this repository contain code required to run the different functions of a lightsaber. The link to the Hackster page describing the Porject is here:
+The files in this repository contain code required to run the different functions of a lightsaber. The link to the Hackster page describing the Porject is here: https://www.hackster.io/hailey3/lightsaber-85c0aa 
 
 There are 9 files in this repository and are outlined below
 
